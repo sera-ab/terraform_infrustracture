@@ -23,4 +23,7 @@
 - Build AMIs with Packer
 - Demo with jenkins and Packer
 - Using ECR - The EC2 Container Registry
+- Using ECS - The EC2 Container Service
+- Using ECR/ECS with Jenkins in a complete workflow
+- Using ECS + ALB in 4 modules to show how developing terraform modules work
 
