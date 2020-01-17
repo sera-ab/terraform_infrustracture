@@ -1,30 +1,29 @@
 # terraform_infrustracture
 
-# Launching an EC2 instance
+Launching an EC2 instance
 
-# Using provisioner
+Using provisioner
 
-# Using provisioner on a Windows instance
+Using provisioner on a Windows instance
 
-# Executing script locally
+Executing script locally
 
-# Outputting
+Outputting
 
-# Data Source
+Data Source
 
-# Modules
+Modules
 
-# AWS VPC
+AWS VPC
 
-# EC2 instance within VPC with securitygroup
+EC2 instance within VPC with securitygroup
 
-# EC2 instance with EBS volumes
+EC2 instance with EBS volumes
 
-# Userdata and cloudinit
-
-# Route53 (DNS)
-
-# RDS
-
-# IAM
+- Userdata and cloudinit
+- Route53 (DNS)
+- RDS
+- IAM
+- IAM Roles with S3 bucket
+- Autoscaling
 
